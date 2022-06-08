@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
     //TODO: On CLick For Text View Roll
     public void rollClicked() {
         //To generate random number
